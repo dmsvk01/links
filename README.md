@@ -10,4 +10,4 @@ repl.it
 https://replit.com/
 
 개인블로그
-https://www.dmsvk01.tistory.com
+https://dmsvk01.tistory.com/
