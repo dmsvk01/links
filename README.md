@@ -8,3 +8,6 @@ https://www.acmicpc.net/step
 
 repl.it
 https://replit.com/
+
+개인블로그
+https://www.dmsvk01.tistory.com
